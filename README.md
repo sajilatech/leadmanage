@@ -29,4 +29,9 @@ php artisan db:seed --class=AdminSeeder
 
 9. run Server
 php artisan serve
+ 10 go to path http://127.0.0.1:8000 OR http://localhost/leadmanage/public (if have version problem run this link)
+
+   10 use login credentials
+   admin
+   admin123
 
